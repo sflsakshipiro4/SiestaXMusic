@@ -1,4 +1,4 @@
-<h3>⚠️ This repo is just a clone of <a href="https://github.com/NotReallyShikhar/YukkiMusicBot">YukkiMusicBot</a>. All credits goes to devs of <a href="https://github.com/NotReallyShikhar/YukkiMusicBot/graphs/contributors">YukkiMusicBot</a>.</h3>
+<h3>⚠️ This repo is just a clone of <a href="https://github.com/sflsakshipiro4/YukkiMusicBot">YukkiMusicBot</a>. All credits goes to devs of <a href="https://github.com/NotReallyShikhar/YukkiMusicBot/graphs/contributors">YukkiMusicBot</a>.</h3>
 
 <p align="center"><img src="https://telegra.ph/file/e17f42bc195635b668d6d.jpg" alt="ICON" width="80%"/></p>
 
@@ -88,9 +88,9 @@ shikhar@MacBook~ $ bash start
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/TechZBots)
-- [Telegram Support Group](https://t.me/TechZBots_Support)
-- [Contact Owner](https://t.me/Tech_Shreyash)
+- [Telegram Channel](https://t.me/sfl_network)
+- [Telegram Support Group](https://t.me/secretland_xd)
+- [Contact Owner](https://t.me/hmko_jante)
 
 
 ## License
